@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e473nef4wjwvch9ttdzytj2ayi3ldsiqn2uuoultrep&rid=giphy.gif&ct=s" width="300"/>
 </div>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ben Daniels</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Idan Cohen</h1>
 <h3 align="center">I'm a passionate Software Developer.</h3>
 
 
@@ -11,6 +11,8 @@
 ## About Me
 
 - 🎓 I’m a 2nd year Computer Science student.
+
+- Loves a good challenge, especially with using new technologies and API's. (like the Jarvis, face recognition etc')
 
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 
