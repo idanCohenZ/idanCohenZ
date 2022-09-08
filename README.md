@@ -10,13 +10,13 @@
 
 ## About Me
 
-- 🎓 I’m a 2nd year Computer Science student.
+- 🎓 I’m a 3ed year Computer Science student.
 
 - Loves a good challenge, especially with using new technologies and API's. (like the Jarvis, face recognition etc')
 
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 
-- 📫 You can reach me at: **cisbhtkx@gmail.com** 
+- 📫 You can reach me at: **idan85e@gmail.com** 
 
 
 
@@ -47,6 +47,7 @@
 ## LinkedIn:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bendaniels-cs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/idancohenzada
+"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
