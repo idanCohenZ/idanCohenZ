@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 I’m a 3ed year Computer Science student.
+- 🎓 I’m a Computer Science Graduate.
 
 - Loves a good challenge, especially with using new technologies and API's. (like the Jarvis, face recognition etc')
 
